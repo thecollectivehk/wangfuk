@@ -1,0 +1,4601 @@
+{
+  "attributes": {
+    "name": "宏福苑維修工程關係圖"
+  },
+  "nodes": [
+    {
+      "key": "estate_宏福苑",
+      "attributes": {
+        "label": "宏福苑",
+        "nodeType": "estate",
+        "color": "#2ecc71",
+        "size": 20,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_張潘建築師及測量師行有限公司",
+      "attributes": {
+        "label": "張潘建築師及測量師行有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "創辦人黃喜潤是雲南政協委員、「香港廣州社團總會」名譽副會長、「廣昌隆」第五代傳人。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_鴻毅建築師有限公司",
+      "attributes": {
+        "label": "鴻毅建築師有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "沈鉅忠曾任職的「世紀建築師樓」2003 年捲入賄賂法團成員案、2004 年捲入沙田濱景花園圍標案。",
+        "politicalRecord": "1） 沈鉅忠在港英時期，曾為市政局候選議員。\n2） 沈鉅忠曾任「紀利華木球會」副會長。該球會位於跑馬地黃金地段，內藏麻將室。\n3） 黄俠然持有的「峰佳」，前董事謝偉芳、前公司秘書陸顏好同為「香港從化同鄉會」董事。謝偉芳兼任廣州市從化區政協常委，曾在 2023 年區議會選舉期間，「帶領同鄉上街為愛國愛港候選人擺設街站超過 90 場、300 人次」。\n4） 黄俠然曾向「香港斐濟總商會」捐出 3,000 元，以支援疫情期間的少數族裔家庭。「萬昇」董事黄天喜是該商會會董。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_艾比斯顧問有限公司",
+      "attributes": {
+        "label": "艾比斯顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "1）「環球屋宇」創辦人王劭強曾捲入 2004 年沙田濱景花園圍標案、2023 年廉署「火網」行動 5.2 億元跨屋苑圍標案。\n2）「環球屋宇」前董事蕭炎坤曾捲入 2025 年倫敦金詐騙案。",
+        "politicalRecord": "1）「環球屋宇」創辦人王劭強2015 年是陽江市政協委員、香港陽江社團總會會董。\n2）「環球屋宇」前董事蕭炎坤曾為廣西政協、南寧市政協常委。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_意顧問工程有限公司",
+      "attributes": {
+        "label": "意顧問工程有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_錦達測量行有限公司",
+      "attributes": {
+        "label": "錦達測量行有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_郭駿建築師有限公司",
+      "attributes": {
+        "label": "郭駿建築師有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "霍偉權曾任職的「世紀建築師樓」2004 年捲入沙田濱景花園圍標案。",
+        "politicalRecord": "何偉強 2006 年至 2015 年任職「香港建造工程師學會有限公司」董事。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_卓越展圖建築師有限公司",
+      "attributes": {
+        "label": "卓越展圖建築師有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_大地建築顧問有限公司",
+      "attributes": {
+        "label": "大地建築顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "王劭祥持有的「浩熙」，其董事陳之望是新思維創黨成員，曾涉嫌虛報學歷。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_藝建工程顧問有限公司",
+      "attributes": {
+        "label": "藝建工程顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_恆新顧問服務有限公司",
+      "attributes": {
+        "label": "恆新顧問服務有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_偉高工程顧問有限公司",
+      "attributes": {
+        "label": "偉高工程顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "譚天瑞曾任職的「譚天瑞建築師事務所」，其股東鍾偉強曾捲入 2016 年 2.6 億元沙田翠湖花園圍標案。",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_天築國際顧問有限公司",
+      "attributes": {
+        "label": "天築國際顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_信徽工程顧問有限公司",
+      "attributes": {
+        "label": "信徽工程顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_葉大永建築師有限公司",
+      "attributes": {
+        "label": "葉大永建築師有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_亞太建築顧問有限公司",
+      "attributes": {
+        "label": "亞太建築顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_萬景工程顧問有限公司",
+      "attributes": {
+        "label": "萬景工程顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_國天建築顧問有限公司",
+      "attributes": {
+        "label": "國天建築顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_江明工程顧問有限公司",
+      "attributes": {
+        "label": "江明工程顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "「利昌」總經理鄧潔榮，涉嫌於 2004 年祐福樓維修工程中，向法團主席行賄，提供 4 萬元報酬。觀塘裁判法院將鄧定罪，判囚半年。",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_雅斯建築顧問有限公司",
+      "attributes": {
+        "label": "雅斯建築顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "現任董事蕭偉年捲入 2018 年一宗「串謀向代理人提供利益」案件。案情指承建商「利東」負責人曾在蕭偉年威脅下，支付 80 萬至 100 萬元，使蕭不再惡意拖延核准支付工程費用。",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_百偉香港顧問有限公司",
+      "attributes": {
+        "label": "百偉（香港）顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_澔天顧問工程師有限公司",
+      "attributes": {
+        "label": "澔天顧問工程師有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_亞洲顧問工程師有限公司",
+      "attributes": {
+        "label": "亞洲顧問工程師有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_亞迪雅工程顧問有限公司",
+      "attributes": {
+        "label": "亞迪雅工程顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_毅建築設計顧問有限公司",
+      "attributes": {
+        "label": "毅建築設計顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_余晨理測量師行有限公司",
+      "attributes": {
+        "label": "余晨理測量師行有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_恒建建築師事務所有限公司",
+      "attributes": {
+        "label": "恒建建築師事務所有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_雅仕建築顧問國際有限公司",
+      "attributes": {
+        "label": "雅仕建築顧問國際有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_燊栢工程顧問服務有限公司",
+      "attributes": {
+        "label": "燊栢工程顧問服務有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "盧鎮威是青海省政協委員、「青海港澳聯誼會」副會長，2021 年當選建築、測量、都市規劃及園境界界別選委。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_馬海良棟建築顧問有限公司",
+      "attributes": {
+        "label": "馬海良棟建築顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "創辦人袁國章為「粵港澳大灣區城市建築學會」會長。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_香港國際建築顧問有限公司",
+      "attributes": {
+        "label": "香港國際建築顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "現任董事陳元正捲入 2023 年廉署「火網」行動 5.2 億元跨屋苑圍標案。",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_專業屋宇工程及顧問有限公司",
+      "attributes": {
+        "label": "專業屋宇工程及顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "鄭增喜曾捲入2023 年廉署「火網」行動5.2 億元跨屋苑圍標案。",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_天嵐建築及測量顧問有限公司",
+      "attributes": {
+        "label": "天嵐建築及測量顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_快利達建築工程顧問有限公司",
+      "attributes": {
+        "label": "快利達建築工程顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_朱黃倫建築師測量師有限公司",
+      "attributes": {
+        "label": "朱黃倫建築師測量師有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "2016 年涉馬來西亞和新加坡「1 元地」投資騙局案醜聞。",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_鮑氏建築師樓宇維修顧問有限公司",
+      "attributes": {
+        "label": "鮑氏建築師樓宇維修顧問有限公司",
+        "nodeType": "consultant",
+        "color": "#e67e22",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_美華建築有限公司",
+      "attributes": {
+        "label": "美華建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_百力營造工程有限公司",
+      "attributes": {
+        "label": "百力營造工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_超明工程有限公司",
+      "attributes": {
+        "label": "超明工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_弘裕建築工程有限公司",
+      "attributes": {
+        "label": "弘裕建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_榮利建造工程有限公司",
+      "attributes": {
+        "label": "榮利建造工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_城市建業集團有限公司",
+      "attributes": {
+        "label": "城市建業集團有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_源發建築工程有限公司",
+      "attributes": {
+        "label": "源發建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_寶盛建設工程有限公司",
+      "attributes": {
+        "label": "寶盛建設工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_好運泰工程有限公司",
+      "attributes": {
+        "label": "好運泰工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_中鐵建設集團有限公司",
+      "attributes": {
+        "label": "中鐵建設集團有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_威鴻建築工程有限公司",
+      "attributes": {
+        "label": "威鴻建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_萬昇建築工程有限公司",
+      "attributes": {
+        "label": "萬昇建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "1） 黃天喜是「香港斐濟總商會」會董、「香港東盟國際商會」首屆會長，2006 年至 2015 年任職「香港建造工程師學會有限公司」董事。\n2） 黄天喜兒子黃以諾是武嗚縣政協委員、「香港斐濟總商會」會董。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_景峰建築工程有限公司",
+      "attributes": {
+        "label": "景峰建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_顯達工程公司",
+      "attributes": {
+        "label": "顯達工程公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_新開明建築工程有限公司",
+      "attributes": {
+        "label": "新開明建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "李植開是「香港陸豐同鄉會」董事、「羅山派體育會」名譽會長、「康仁體育會」成員。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_富創建築工程有限公司",
+      "attributes": {
+        "label": "富創建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_祥利建築公司",
+      "attributes": {
+        "label": "祥利建築公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_俊豪建築工程有限公司",
+      "attributes": {
+        "label": "俊豪建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_寶發建築工程有限公司",
+      "attributes": {
+        "label": "寶發建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "莊聰圖 2023 年捲入廉署「火網」行動 5.2 億元跨屋苑圍標案。",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_文源建築工程有限公司",
+      "attributes": {
+        "label": "文源建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_聯力建築有限公司",
+      "attributes": {
+        "label": "聯力建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_宏業建築工程有限公司",
+      "attributes": {
+        "label": "宏業建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "1） 曹德光 2009 年曾賄賂房協經理。\n2） 黃忠基 2003 年曾被起訴詐騙罪。",
+        "politicalRecord": "侯華健是「灣仔中西區工商業聯合會」會董。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_益興建築有限公司",
+      "attributes": {
+        "label": "益興建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "「中國核工業第五建設有限公司」的官網「黨群建設專題」顯示，「益興」董事袁重遠 2017 年，接見黨委書記林樂忠等人，洽談合作。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_信誠營造工程有限公司",
+      "attributes": {
+        "label": "信誠營造工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_萬嘉建築工程有限公司",
+      "attributes": {
+        "label": "萬嘉建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_新貴建業工程有限公司",
+      "attributes": {
+        "label": "新貴建業工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_樹深建築有限公司",
+      "attributes": {
+        "label": "樹深建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_民星營造有限公司",
+      "attributes": {
+        "label": "民星營造有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "譚子文是「旅港開平商會」董事、「康仁體育會」成員。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_順程建築有限公司",
+      "attributes": {
+        "label": "順程建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_英昌建築公司",
+      "attributes": {
+        "label": "英昌建築公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_創業建築有限公司",
+      "attributes": {
+        "label": "創業建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_華生建築打樁有限公司",
+      "attributes": {
+        "label": "華生建築打樁有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_海得志發展集團有限公司",
+      "attributes": {
+        "label": "海得志發展集團有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "「海得志」創辦人陳震海捲入 2016 年沙田翠湖花園圍標案，被指分期 7 次付 20 萬元，賄賂「新昌」保養經理曾憲傑，惟「海得志」最終沒有落標，曾憲傑判囚半年。",
+        "politicalRecord": "「海得志」前董事郭偉良 2002 年至 2015 年任職「香港建造工程師學會有限公司」董事。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_全達建築有限公司",
+      "attributes": {
+        "label": "全達建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_達興建築有限公司",
+      "attributes": {
+        "label": "達興建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "何智崐是「羅山派體育會」名譽會長、「東方體育會」足球管理隊名譽副會長。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_信豪集團工程有限公司",
+      "attributes": {
+        "label": "信豪（集團）工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "「信豪」前董事周豪健同時任職的「旺豪」，2006 年時因拖欠 1,100 萬元債務，被債權人入稟，最終由其胞弟、台灣著名歌手周華健替其三哥周豪健還清債務。",
+        "politicalRecord": "「信豪」前董事何忠明，現為貴州省政協委員、香港貴州聯誼會副會長、「香港環境師學會」會長，並曾任香港廣東社團總會會員 10 多年。",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_宏溢營造工程有限公司",
+      "attributes": {
+        "label": "宏溢營造工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "「宏溢」前董事陳金生 2004 年至 2005 年間，先後向康麗花園業主法案法團主席陳樹光，提供一部電視機、現金一萬元及免費泰國旅遊，作為協助他取得翻新工程的報酬，最終被裁定兩項向代理人提供利益罪成，判監 18 個月。",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_美博工程服務有限公司",
+      "attributes": {
+        "label": "美博工程服務有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_志富建築集團有限公司",
+      "attributes": {
+        "label": "志富建築（集團）有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_德昌文記建築工程有限公司",
+      "attributes": {
+        "label": "德昌（文記）建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_業晟維修有限公司",
+      "attributes": {
+        "label": "業晟維修有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_浩成建築工程有限公司",
+      "attributes": {
+        "label": "浩成建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_新港建築工程有限公司",
+      "attributes": {
+        "label": "新港建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_盈信建築有限公司",
+      "attributes": {
+        "label": "盈信建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_堅城梁氏建築有限公司",
+      "attributes": {
+        "label": "堅城（梁氏）建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_雄圖建築有限公司",
+      "attributes": {
+        "label": "雄圖建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_華盛建築工程有限公司",
+      "attributes": {
+        "label": "華盛建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_昇基工程有限公司",
+      "attributes": {
+        "label": "昇基工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_現代建設亞洲有限公司",
+      "attributes": {
+        "label": "現代建設（亞洲）有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_寰宇建築工程有限公司",
+      "attributes": {
+        "label": "寰宇建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_藝林建築工程有限公司",
+      "attributes": {
+        "label": "藝林建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_永豐工程發展有限公司",
+      "attributes": {
+        "label": "永豐工程發展有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_棠記工程有限公司",
+      "attributes": {
+        "label": "棠記工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_秋茂工程公司",
+      "attributes": {
+        "label": "秋茂工程公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_瑋業發展建築有限公司",
+      "attributes": {
+        "label": "瑋業發展建築有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_偉利建築工程有限公司",
+      "attributes": {
+        "label": "偉利建築工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "co_竣鴻工程有限公司",
+      "attributes": {
+        "label": "竣鴻工程有限公司",
+        "nodeType": "contractor",
+        "color": "#9b59b6",
+        "size": 12,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_張國豪",
+      "attributes": {
+        "label": "張國豪",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_曾偉傑",
+      "attributes": {
+        "label": "曾偉傑",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_黃俠然",
+      "attributes": {
+        "label": "黃俠然",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_何偉強",
+      "attributes": {
+        "label": "何偉強",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "何偉強 2006 年至 2015 年任職「香港建造工程師學會有限公司」董事",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_沈鉅忠",
+      "attributes": {
+        "label": "沈鉅忠",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "沈鉅忠曾任職的「世紀建築師樓」2003 年捲入賄賂法團成員案、2004 年捲入沙田濱景花園圍標案",
+        "politicalRecord": "1） 沈鉅忠在港英時期，曾為市政局候選議員。2） 沈鉅忠曾任「紀利華木球會」副會長",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_陳兆華",
+      "attributes": {
+        "label": "陳兆華",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_洪偉成",
+      "attributes": {
+        "label": "洪偉成",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_霍偉權",
+      "attributes": {
+        "label": "霍偉權",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "霍偉權曾任職的「世紀建築師樓」2004 年捲入沙田濱景花園圍標案",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_曾景成",
+      "attributes": {
+        "label": "曾景成",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_潘啓傑",
+      "attributes": {
+        "label": "潘啓傑",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_王劭祥",
+      "attributes": {
+        "label": "王劭祥",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "王劭祥持有的「浩熙」，其董事陳之望是新思維創黨成員，曾涉嫌虛報學歷",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_呂藹",
+      "attributes": {
+        "label": "呂藹",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_譚天瑞",
+      "attributes": {
+        "label": "譚天瑞",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "譚天瑞曾任職的「譚天瑞建築師事務所」，其股東鍾偉強曾捲入 2016 年 2.6 億元沙田翠湖花園圍標案",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_吳志傑",
+      "attributes": {
+        "label": "吳志傑",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_曹德光①",
+      "attributes": {
+        "label": "曹德光①",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_王麗燕",
+      "attributes": {
+        "label": "王麗燕",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_江明",
+      "attributes": {
+        "label": "江明",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_盧鳳玲",
+      "attributes": {
+        "label": "盧鳳玲",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_容志堅",
+      "attributes": {
+        "label": "容志堅",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_葉梓進",
+      "attributes": {
+        "label": "葉梓進",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_單揚波",
+      "attributes": {
+        "label": "單揚波",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_王善瑜",
+      "attributes": {
+        "label": "王善瑜",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_鄺漢璋",
+      "attributes": {
+        "label": "鄺漢璋",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_張梅飛",
+      "attributes": {
+        "label": "張梅飛",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_鄺國昌",
+      "attributes": {
+        "label": "鄺國昌",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_盧鎮威",
+      "attributes": {
+        "label": "盧鎮威",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "盧鎮威是青海省政協委員、「青海港澳聯誼會」副會長，2021 年當選建築、測量、都市規劃及園境界界別選委",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_梁義經",
+      "attributes": {
+        "label": "梁義經",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_鄭增喜",
+      "attributes": {
+        "label": "鄭增喜",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "鄭增喜曾捲入2023 年廉署「火網」行動5.2 億元跨屋苑圍標案",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_區小玲",
+      "attributes": {
+        "label": "區小玲",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_黃忠基",
+      "attributes": {
+        "label": "黃忠基",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "2） 黃忠基 2003 年曾被起訴詐騙罪",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_陳慧芳",
+      "attributes": {
+        "label": "陳慧芳",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_黃文康",
+      "attributes": {
+        "label": "黃文康",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_謝燕峯",
+      "attributes": {
+        "label": "謝燕峯",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_黃天喜",
+      "attributes": {
+        "label": "黃天喜",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "1） 黃天喜是「香港斐濟總商會」會董、「香港東盟國際商會」首屆會長，2006 年至 2015 年任職「香港建造工程師學會有限公司」董事",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_司徒覺警",
+      "attributes": {
+        "label": "司徒覺警",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_余紹基",
+      "attributes": {
+        "label": "余紹基",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_陳國良",
+      "attributes": {
+        "label": "陳國良",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_李植開",
+      "attributes": {
+        "label": "李植開",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "李植開是「香港陸豐同鄉會」董事、「羅山派體育會」名譽會長、「康仁體育會」成員",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_莊聰圖",
+      "attributes": {
+        "label": "莊聰圖",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "莊聰圖 2023 年捲入廉署「火網」行動 5.2 億元跨屋苑圍標案",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_陳陽升",
+      "attributes": {
+        "label": "陳陽升",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_曹德光②",
+      "attributes": {
+        "label": "曹德光②",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "1） 曹德光 2009 年曾賄賂房協經理",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_梁炳耀",
+      "attributes": {
+        "label": "梁炳耀",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_林偉豪",
+      "attributes": {
+        "label": "林偉豪",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_譚子文",
+      "attributes": {
+        "label": "譚子文",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "譚子文是「旅港開平商會」董事、「康仁體育會」成員",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_王美玉",
+      "attributes": {
+        "label": "王美玉",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_王長輝",
+      "attributes": {
+        "label": "王長輝",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_郭偉良",
+      "attributes": {
+        "label": "郭偉良",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "「海得志」前董事郭偉良 2002 年至 2015 年任職「香港建造工程師學會有限公司」董事",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_何智崐",
+      "attributes": {
+        "label": "何智崐",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "何智崐是「羅山派體育會」名譽會長、「東方體育會」足球管理隊名譽副會長",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_梁家浩",
+      "attributes": {
+        "label": "梁家浩",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_林育榮",
+      "attributes": {
+        "label": "林育榮",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_蔡文鳴",
+      "attributes": {
+        "label": "蔡文鳴",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_鄺長基",
+      "attributes": {
+        "label": "鄺長基",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_周豪健",
+      "attributes": {
+        "label": "周豪健",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "「信豪」前董事周豪健同時任職的「旺豪」，2006 年時因拖欠 1,100 萬元債務，被債權人入稟，最終由其胞弟、台灣著名歌手周華健替其三哥周豪健還清債務",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_周學儉",
+      "attributes": {
+        "label": "周學儉",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_環保建築",
+      "attributes": {
+        "label": "環保建築",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_博德",
+      "attributes": {
+        "label": "博德",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_全動力",
+      "attributes": {
+        "label": "全動力",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_世紀建築師樓",
+      "attributes": {
+        "label": "世紀建築師樓",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_環球屋宇",
+      "attributes": {
+        "label": "環球屋宇",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_浩熙",
+      "attributes": {
+        "label": "浩熙",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_譚天瑞建築師事務所",
+      "attributes": {
+        "label": "譚天瑞建築師事務所",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_普思",
+      "attributes": {
+        "label": "普思",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_富麗",
+      "attributes": {
+        "label": "富麗",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_巴菲建築師樓",
+      "attributes": {
+        "label": "巴菲建築師樓",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_利昌",
+      "attributes": {
+        "label": "利昌",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_錦運投資",
+      "attributes": {
+        "label": "錦運投資",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_宏佳",
+      "attributes": {
+        "label": "宏佳",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_阿爾法",
+      "attributes": {
+        "label": "阿爾法",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_信和",
+      "attributes": {
+        "label": "信和",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_香港建造工程師學會有限公司",
+      "attributes": {
+        "label": "香港建造工程師學會有限公司",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_中達",
+      "attributes": {
+        "label": "中達",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_聯發建築",
+      "attributes": {
+        "label": "聯發建築",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_創建坊",
+      "attributes": {
+        "label": "創建坊",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_國安聯行",
+      "attributes": {
+        "label": "國安聯行",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_炬鋒",
+      "attributes": {
+        "label": "炬鋒",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_遠東建築師",
+      "attributes": {
+        "label": "遠東建築師",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_利來拓展",
+      "attributes": {
+        "label": "利來拓展",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_輝煌",
+      "attributes": {
+        "label": "輝煌",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_富林工程",
+      "attributes": {
+        "label": "富林工程",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_金川投資發展",
+      "attributes": {
+        "label": "金川投資發展",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_旺豪",
+      "attributes": {
+        "label": "旺豪",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_浩瀚",
+      "attributes": {
+        "label": "浩瀚",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "ext_生興建築",
+      "attributes": {
+        "label": "生興建築",
+        "nodeType": "external",
+        "color": "#888888",
+        "size": 8,
+        "criminalRecord": "",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_王劭強",
+      "attributes": {
+        "label": "王劭強",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "1）「環球屋宇」創辦人王劭強曾捲入 2004 年沙田濱景花園圍標案、2023 年廉署「火網」行動 5.2 億元跨屋苑圍標案",
+        "politicalRecord": "1）「環球屋宇」創辦人王劭強2015 年是陽江市政協委員、香港陽江社團總會會董",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_蕭炎坤",
+      "attributes": {
+        "label": "蕭炎坤",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "2）「環球屋宇」前董事蕭炎坤曾捲入 2025 年倫敦金詐騙案",
+        "politicalRecord": "2）「環球屋宇」前董事蕭炎坤曾為廣西政協、南寧市政協常委",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_蕭偉年",
+      "attributes": {
+        "label": "蕭偉年",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "現任董事蕭偉年捲入 2018 年一宗「串謀向代理人提供利益」案件。案情指承建商「利東」負責人曾在蕭偉年威脅下，支付 80 萬至 100 萬元，使蕭不再惡意拖延核准支付工程費用",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_陳元正",
+      "attributes": {
+        "label": "陳元正",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "現任董事陳元正捲入 2023 年廉署「火網」行動 5.2 億元跨屋苑圍標案",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_袁重遠",
+      "attributes": {
+        "label": "袁重遠",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "「中國核工業第五建設有限公司」的官網「黨群建設專題」顯示，「益興」董事袁重遠 2017 年，接見黨委書記林樂忠等人，洽談合作",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_陳震海",
+      "attributes": {
+        "label": "陳震海",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "「海得志」創辦人陳震海捲入 2016 年沙田翠湖花園圍標案，被指分期 7 次付 20 萬元，賄賂「新昌」保養經理曾憲傑，惟「海得志」最終沒有落標，曾憲傑判囚半年",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_何忠明",
+      "attributes": {
+        "label": "何忠明",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "",
+        "politicalRecord": "「信豪」前董事何忠明，現為貴州省政協委員、香港貴州聯誼會副會長、「香港環境師學會」會長，並曾任香港廣東社團總會會員 10 多年",
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "key": "p_陳金生",
+      "attributes": {
+        "label": "陳金生",
+        "nodeType": "person",
+        "color": "#ffffff",
+        "size": 6,
+        "criminalRecord": "「宏溢」前董事陳金生 2004 年至 2005 年間，先後向康麗花園業主法案法團主席陳樹光，提供一部電視機、現金一萬元及免費泰國旅遊，作為協助他取得翻新工程的報酬，最終被裁定兩項向代理人提供利益罪成，判監 18 個月",
+        "politicalRecord": "",
+        "x": 0.0,
+        "y": 0.0
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "e_0",
+      "source": "estate_宏福苑",
+      "target": "co_張潘建築師及測量師行有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_1",
+      "source": "estate_宏福苑",
+      "target": "co_鴻毅建築師有限公司",
+      "attributes": {
+        "edgeType": "bid_winner",
+        "color": "#e74c3c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_2",
+      "source": "estate_宏福苑",
+      "target": "co_艾比斯顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_3",
+      "source": "estate_宏福苑",
+      "target": "co_意顧問工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_4",
+      "source": "estate_宏福苑",
+      "target": "co_錦達測量行有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_5",
+      "source": "estate_宏福苑",
+      "target": "co_郭駿建築師有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_6",
+      "source": "estate_宏福苑",
+      "target": "co_卓越展圖建築師有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_7",
+      "source": "estate_宏福苑",
+      "target": "co_大地建築顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_8",
+      "source": "estate_宏福苑",
+      "target": "co_藝建工程顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_9",
+      "source": "estate_宏福苑",
+      "target": "co_恆新顧問服務有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_10",
+      "source": "estate_宏福苑",
+      "target": "co_偉高工程顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_11",
+      "source": "estate_宏福苑",
+      "target": "co_天築國際顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_12",
+      "source": "estate_宏福苑",
+      "target": "co_信徽工程顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_13",
+      "source": "estate_宏福苑",
+      "target": "co_葉大永建築師有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_14",
+      "source": "estate_宏福苑",
+      "target": "co_亞太建築顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_15",
+      "source": "estate_宏福苑",
+      "target": "co_萬景工程顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_16",
+      "source": "estate_宏福苑",
+      "target": "co_國天建築顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_17",
+      "source": "estate_宏福苑",
+      "target": "co_江明工程顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_18",
+      "source": "estate_宏福苑",
+      "target": "co_雅斯建築顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_19",
+      "source": "estate_宏福苑",
+      "target": "co_百偉香港顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_20",
+      "source": "estate_宏福苑",
+      "target": "co_澔天顧問工程師有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_21",
+      "source": "estate_宏福苑",
+      "target": "co_亞洲顧問工程師有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_22",
+      "source": "estate_宏福苑",
+      "target": "co_亞迪雅工程顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_23",
+      "source": "estate_宏福苑",
+      "target": "co_毅建築設計顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_24",
+      "source": "estate_宏福苑",
+      "target": "co_余晨理測量師行有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_25",
+      "source": "estate_宏福苑",
+      "target": "co_恒建建築師事務所有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_26",
+      "source": "estate_宏福苑",
+      "target": "co_雅仕建築顧問國際有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_27",
+      "source": "estate_宏福苑",
+      "target": "co_燊栢工程顧問服務有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_28",
+      "source": "estate_宏福苑",
+      "target": "co_馬海良棟建築顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_29",
+      "source": "estate_宏福苑",
+      "target": "co_香港國際建築顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_30",
+      "source": "estate_宏福苑",
+      "target": "co_專業屋宇工程及顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_31",
+      "source": "estate_宏福苑",
+      "target": "co_天嵐建築及測量顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_32",
+      "source": "estate_宏福苑",
+      "target": "co_快利達建築工程顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_33",
+      "source": "estate_宏福苑",
+      "target": "co_朱黃倫建築師測量師有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_34",
+      "source": "estate_宏福苑",
+      "target": "co_鮑氏建築師樓宇維修顧問有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_35",
+      "source": "estate_宏福苑",
+      "target": "co_美華建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_36",
+      "source": "estate_宏福苑",
+      "target": "co_百力營造工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_37",
+      "source": "estate_宏福苑",
+      "target": "co_超明工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_38",
+      "source": "estate_宏福苑",
+      "target": "co_弘裕建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_39",
+      "source": "estate_宏福苑",
+      "target": "co_榮利建造工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_40",
+      "source": "estate_宏福苑",
+      "target": "co_城市建業集團有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_41",
+      "source": "estate_宏福苑",
+      "target": "co_源發建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_42",
+      "source": "estate_宏福苑",
+      "target": "co_寶盛建設工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_43",
+      "source": "estate_宏福苑",
+      "target": "co_好運泰工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_44",
+      "source": "estate_宏福苑",
+      "target": "co_中鐵建設集團有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_45",
+      "source": "estate_宏福苑",
+      "target": "co_威鴻建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_46",
+      "source": "estate_宏福苑",
+      "target": "co_萬昇建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_47",
+      "source": "estate_宏福苑",
+      "target": "co_景峰建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_48",
+      "source": "estate_宏福苑",
+      "target": "co_顯達工程公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_49",
+      "source": "estate_宏福苑",
+      "target": "co_新開明建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_50",
+      "source": "estate_宏福苑",
+      "target": "co_富創建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_51",
+      "source": "estate_宏福苑",
+      "target": "co_祥利建築公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_52",
+      "source": "estate_宏福苑",
+      "target": "co_俊豪建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_53",
+      "source": "estate_宏福苑",
+      "target": "co_寶發建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_54",
+      "source": "estate_宏福苑",
+      "target": "co_文源建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_55",
+      "source": "estate_宏福苑",
+      "target": "co_聯力建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_56",
+      "source": "estate_宏福苑",
+      "target": "co_宏業建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_winner",
+        "color": "#e74c3c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_57",
+      "source": "estate_宏福苑",
+      "target": "co_益興建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_58",
+      "source": "estate_宏福苑",
+      "target": "co_信誠營造工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_59",
+      "source": "estate_宏福苑",
+      "target": "co_萬嘉建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_60",
+      "source": "estate_宏福苑",
+      "target": "co_新貴建業工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_61",
+      "source": "estate_宏福苑",
+      "target": "co_樹深建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_62",
+      "source": "estate_宏福苑",
+      "target": "co_民星營造有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_63",
+      "source": "estate_宏福苑",
+      "target": "co_順程建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_64",
+      "source": "estate_宏福苑",
+      "target": "co_英昌建築公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_65",
+      "source": "estate_宏福苑",
+      "target": "co_創業建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_66",
+      "source": "estate_宏福苑",
+      "target": "co_華生建築打樁有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_67",
+      "source": "estate_宏福苑",
+      "target": "co_海得志發展集團有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_68",
+      "source": "estate_宏福苑",
+      "target": "co_全達建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_69",
+      "source": "estate_宏福苑",
+      "target": "co_達興建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_70",
+      "source": "estate_宏福苑",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_71",
+      "source": "estate_宏福苑",
+      "target": "co_宏溢營造工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_72",
+      "source": "estate_宏福苑",
+      "target": "co_美博工程服務有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_73",
+      "source": "estate_宏福苑",
+      "target": "co_志富建築集團有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_74",
+      "source": "estate_宏福苑",
+      "target": "co_德昌文記建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_75",
+      "source": "estate_宏福苑",
+      "target": "co_業晟維修有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_76",
+      "source": "estate_宏福苑",
+      "target": "co_浩成建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_77",
+      "source": "estate_宏福苑",
+      "target": "co_新港建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_78",
+      "source": "estate_宏福苑",
+      "target": "co_盈信建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_79",
+      "source": "estate_宏福苑",
+      "target": "co_堅城梁氏建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_80",
+      "source": "estate_宏福苑",
+      "target": "co_雄圖建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_81",
+      "source": "estate_宏福苑",
+      "target": "co_華盛建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_82",
+      "source": "estate_宏福苑",
+      "target": "co_昇基工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_83",
+      "source": "estate_宏福苑",
+      "target": "co_現代建設亞洲有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_84",
+      "source": "estate_宏福苑",
+      "target": "co_寰宇建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_85",
+      "source": "estate_宏福苑",
+      "target": "co_藝林建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_86",
+      "source": "estate_宏福苑",
+      "target": "co_永豐工程發展有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_87",
+      "source": "estate_宏福苑",
+      "target": "co_棠記工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_88",
+      "source": "estate_宏福苑",
+      "target": "co_秋茂工程公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_89",
+      "source": "estate_宏福苑",
+      "target": "co_瑋業發展建築有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_90",
+      "source": "estate_宏福苑",
+      "target": "co_偉利建築工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_91",
+      "source": "estate_宏福苑",
+      "target": "co_竣鴻工程有限公司",
+      "attributes": {
+        "edgeType": "bid_loser",
+        "color": "#1abc9c",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_92",
+      "source": "p_張國豪",
+      "target": "co_張潘建築師及測量師行有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_93",
+      "source": "p_曾偉傑",
+      "target": "co_張潘建築師及測量師行有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_94",
+      "source": "p_黃俠然",
+      "target": "co_鴻毅建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_95",
+      "source": "p_何偉強",
+      "target": "co_鴻毅建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_96",
+      "source": "p_沈鉅忠",
+      "target": "co_鴻毅建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_97",
+      "source": "p_陳兆華",
+      "target": "co_鴻毅建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_98",
+      "source": "p_洪偉成",
+      "target": "co_鴻毅建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_99",
+      "source": "p_何偉強",
+      "target": "co_郭駿建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_100",
+      "source": "p_霍偉權",
+      "target": "co_郭駿建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_101",
+      "source": "p_曾景成",
+      "target": "co_卓越展圖建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_102",
+      "source": "p_潘啓傑",
+      "target": "co_卓越展圖建築師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_103",
+      "source": "p_王劭祥",
+      "target": "co_大地建築顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_104",
+      "source": "p_呂藹",
+      "target": "co_藝建工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_105",
+      "source": "p_譚天瑞",
+      "target": "co_偉高工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_106",
+      "source": "p_吳志傑",
+      "target": "co_偉高工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_107",
+      "source": "p_黃俠然",
+      "target": "co_天築國際顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_108",
+      "source": "p_曹德光①",
+      "target": "co_亞太建築顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_109",
+      "source": "p_陳兆華",
+      "target": "co_萬景工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_110",
+      "source": "p_王麗燕",
+      "target": "co_萬景工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_111",
+      "source": "p_江明",
+      "target": "co_江明工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_112",
+      "source": "p_盧鳳玲",
+      "target": "co_江明工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_113",
+      "source": "p_容志堅",
+      "target": "co_亞迪雅工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_114",
+      "source": "p_葉梓進",
+      "target": "co_毅建築設計顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_115",
+      "source": "p_單揚波",
+      "target": "co_恒建建築師事務所有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_116",
+      "source": "p_王善瑜",
+      "target": "co_恒建建築師事務所有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_117",
+      "source": "p_鄺漢璋",
+      "target": "co_恒建建築師事務所有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_118",
+      "source": "p_張梅飛",
+      "target": "co_雅仕建築顧問國際有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_119",
+      "source": "p_鄺國昌",
+      "target": "co_雅仕建築顧問國際有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_120",
+      "source": "p_盧鎮威",
+      "target": "co_燊栢工程顧問服務有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_121",
+      "source": "p_潘啓傑",
+      "target": "co_燊栢工程顧問服務有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_122",
+      "source": "p_盧鎮威",
+      "target": "co_馬海良棟建築顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_123",
+      "source": "p_梁義經",
+      "target": "co_馬海良棟建築顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_124",
+      "source": "p_鄭增喜",
+      "target": "co_專業屋宇工程及顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_125",
+      "source": "p_區小玲",
+      "target": "co_專業屋宇工程及顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_126",
+      "source": "p_黃忠基",
+      "target": "co_天嵐建築及測量顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_127",
+      "source": "p_王劭祥",
+      "target": "co_快利達建築工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_128",
+      "source": "p_陳慧芳",
+      "target": "co_快利達建築工程顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_129",
+      "source": "p_黃文康",
+      "target": "co_朱黃倫建築師測量師有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_130",
+      "source": "p_謝燕峯",
+      "target": "co_源發建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_131",
+      "source": "p_黃天喜",
+      "target": "co_萬昇建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_132",
+      "source": "p_司徒覺警",
+      "target": "co_萬昇建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_133",
+      "source": "p_余紹基",
+      "target": "co_萬昇建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_134",
+      "source": "p_陳國良",
+      "target": "co_景峰建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_135",
+      "source": "p_李植開",
+      "target": "co_新開明建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_136",
+      "source": "p_莊聰圖",
+      "target": "co_寶發建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_137",
+      "source": "p_陳陽升",
+      "target": "co_寶發建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_138",
+      "source": "p_呂藹",
+      "target": "co_寶發建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_139",
+      "source": "p_曹德光②",
+      "target": "co_宏業建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_140",
+      "source": "p_梁炳耀",
+      "target": "co_宏業建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_141",
+      "source": "p_黃忠基",
+      "target": "co_宏業建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_142",
+      "source": "p_林偉豪",
+      "target": "co_樹深建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_143",
+      "source": "p_葉梓進",
+      "target": "co_樹深建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_144",
+      "source": "p_譚子文",
+      "target": "co_民星營造有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_145",
+      "source": "p_洪偉成",
+      "target": "co_順程建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_146",
+      "source": "p_單揚波",
+      "target": "co_順程建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_147",
+      "source": "p_王美玉",
+      "target": "co_順程建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_148",
+      "source": "p_王長輝",
+      "target": "co_順程建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_149",
+      "source": "p_黃忠基",
+      "target": "co_海得志發展集團有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_150",
+      "source": "p_司徒覺警",
+      "target": "co_海得志發展集團有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_151",
+      "source": "p_謝燕峯",
+      "target": "co_海得志發展集團有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_152",
+      "source": "p_郭偉良",
+      "target": "co_海得志發展集團有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_153",
+      "source": "p_何智崐",
+      "target": "co_達興建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_154",
+      "source": "p_梁家浩",
+      "target": "co_達興建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_155",
+      "source": "p_林育榮",
+      "target": "co_達興建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_156",
+      "source": "p_余紹基",
+      "target": "co_達興建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_157",
+      "source": "p_蔡文鳴",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_158",
+      "source": "p_單揚波",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_159",
+      "source": "p_黃天喜",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_160",
+      "source": "p_鄺長基",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_161",
+      "source": "p_林育榮",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_162",
+      "source": "p_曾景成",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_163",
+      "source": "p_周豪健",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_164",
+      "source": "p_周學儉",
+      "target": "co_堅城梁氏建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_165",
+      "source": "p_梁炳耀",
+      "target": "co_偉利建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_166",
+      "source": "p_鄺長基",
+      "target": "co_偉利建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_167",
+      "source": "p_張國豪",
+      "target": "co_新開明建築工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_168",
+      "source": "p_張國豪",
+      "target": "ext_環保建築",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_169",
+      "source": "p_曾偉傑",
+      "target": "ext_博德",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_170",
+      "source": "p_曾偉傑",
+      "target": "ext_全動力",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_171",
+      "source": "p_沈鉅忠",
+      "target": "ext_世紀建築師樓",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_172",
+      "source": "co_艾比斯顧問有限公司",
+      "target": "ext_環球屋宇",
+      "attributes": {
+        "edgeType": "co_co",
+        "color": "#888888",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_173",
+      "source": "p_霍偉權",
+      "target": "ext_世紀建築師樓",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_174",
+      "source": "p_王劭祥",
+      "target": "ext_浩熙",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_175",
+      "source": "p_譚天瑞",
+      "target": "ext_譚天瑞建築師事務所",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_176",
+      "source": "p_吳志傑",
+      "target": "ext_普思",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_177",
+      "source": "p_吳志傑",
+      "target": "ext_富麗",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_178",
+      "source": "p_王麗燕",
+      "target": "ext_巴菲建築師樓",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_179",
+      "source": "p_江明",
+      "target": "ext_利昌",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_180",
+      "source": "p_盧鳳玲",
+      "target": "ext_利昌",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_181",
+      "source": "p_容志堅",
+      "target": "ext_錦運投資",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_182",
+      "source": "p_單揚波",
+      "target": "ext_富麗",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_183",
+      "source": "p_單揚波",
+      "target": "ext_宏佳",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_184",
+      "source": "p_王善瑜",
+      "target": "ext_阿爾法",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_185",
+      "source": "p_鄺漢璋",
+      "target": "ext_信和",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_186",
+      "source": "p_張梅飛",
+      "target": "ext_香港建造工程師學會有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_187",
+      "source": "p_鄺國昌",
+      "target": "ext_香港建造工程師學會有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_188",
+      "source": "p_梁義經",
+      "target": "ext_中達",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_189",
+      "source": "p_鄭增喜",
+      "target": "ext_聯發建築",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_190",
+      "source": "p_鄭增喜",
+      "target": "ext_環保建築",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_191",
+      "source": "p_區小玲",
+      "target": "ext_環保建築",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_192",
+      "source": "p_陳慧芳",
+      "target": "ext_創建坊",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_193",
+      "source": "p_黃文康",
+      "target": "ext_環球屋宇",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_194",
+      "source": "p_黃天喜",
+      "target": "ext_宏佳",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_195",
+      "source": "p_司徒覺警",
+      "target": "ext_宏佳",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_196",
+      "source": "p_陳國良",
+      "target": "ext_國安聯行",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_197",
+      "source": "p_李植開",
+      "target": "ext_炬鋒",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_198",
+      "source": "p_莊聰圖",
+      "target": "ext_錦運投資",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_199",
+      "source": "p_陳陽升",
+      "target": "ext_錦運投資",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_200",
+      "source": "p_林偉豪",
+      "target": "ext_遠東建築師",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_201",
+      "source": "p_譚子文",
+      "target": "ext_利來拓展",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_202",
+      "source": "p_王美玉",
+      "target": "ext_環球屋宇",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_203",
+      "source": "p_王美玉",
+      "target": "ext_輝煌",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_204",
+      "source": "p_王長輝",
+      "target": "ext_輝煌",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_205",
+      "source": "p_何智崐",
+      "target": "ext_富林工程",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_206",
+      "source": "p_梁家浩",
+      "target": "ext_富林工程",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_207",
+      "source": "p_何智崐",
+      "target": "ext_金川投資發展",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_208",
+      "source": "p_蔡文鳴",
+      "target": "ext_炬鋒",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_209",
+      "source": "p_周豪健",
+      "target": "ext_旺豪",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_210",
+      "source": "p_周學儉",
+      "target": "ext_浩瀚",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_211",
+      "source": "p_周學儉",
+      "target": "ext_生興建築",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_212",
+      "source": "p_王劭強",
+      "target": "ext_環球屋宇",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_213",
+      "source": "p_蕭炎坤",
+      "target": "ext_環球屋宇",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_214",
+      "source": "p_蕭偉年",
+      "target": "co_雅斯建築顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_215",
+      "source": "p_陳元正",
+      "target": "co_香港國際建築顧問有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_216",
+      "source": "p_袁重遠",
+      "target": "co_益興建築有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_217",
+      "source": "p_陳震海",
+      "target": "co_海得志發展集團有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_218",
+      "source": "p_何忠明",
+      "target": "co_信豪集團工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    },
+    {
+      "key": "e_219",
+      "source": "p_陳金生",
+      "target": "co_宏溢營造工程有限公司",
+      "attributes": {
+        "edgeType": "person_co",
+        "color": "#555555",
+        "size": 1
+      }
+    }
+  ]
+}

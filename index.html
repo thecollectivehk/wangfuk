@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>宏福苑維修工程關係圖</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #000;
+      font-family: Arial, 'Microsoft JhengHei', sans-serif;
+      overflow: hidden;
+      height: 100vh;
+    }
+
+    #sigma-container { position: fixed; inset: 0; }
+
+    /* ── Left Panel ─────────────────────────────────────── */
+    #left-panel {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      width: 242px;
+      background: rgba(228, 228, 228, 0.95);
+      border-radius: 4px;
+      padding: 14px;
+      z-index: 10;
+      font-size: 13px;
+      color: #222;
+    }
+
+    .panel-heading {
+      font-size: 12px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .legend-row {
+      display: flex;
+      align-items: center;
+      margin-bottom: 5px;
+      font-size: 12px;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      margin-right: 8px;
+      flex-shrink: 0;
+    }
+
+    hr { border: none; border-top: 1px solid #bbb; margin: 11px 0; }
+
+    .section-label { font-size: 12px; font-weight: bold; margin-bottom: 6px; }
+
+    #search-input {
+      width: 100%;
+      padding: 5px 8px;
+      border: 1px solid #bbb;
+      border-radius: 3px;
+      font-size: 12px;
+      outline: none;
+    }
+    #search-input:focus { border-color: #777; }
+
+    #search-results {
+      display: none;
+      background: #fff;
+      border: 1px solid #bbb;
+      border-radius: 3px;
+      margin-top: 4px;
+      max-height: 170px;
+      overflow-y: auto;
+    }
+
+    .sr-item {
+      padding: 6px 8px;
+      cursor: pointer;
+      font-size: 12px;
+      border-bottom: 1px solid #eee;
+    }
+    .sr-item:hover { background: #f0f0f0; }
+    .sr-item:last-child { border-bottom: none; }
+
+    #cat-select {
+      width: 100%;
+      padding: 5px 6px;
+      font-size: 12px;
+      border: 1px solid #bbb;
+      border-radius: 3px;
+      background: #fff;
+    }
+
+    /* ── Right Panel ────────────────────────────────────── */
+    #right-panel {
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 300px;
+      height: 100%;
+      background: rgba(228, 228, 228, 0.97);
+      z-index: 10;
+      display: none;
+      flex-direction: column;
+    }
+
+    #rp-header {
+      padding: 10px 14px;
+      text-align: right;
+      border-bottom: 1px solid #bbb;
+      flex-shrink: 0;
+    }
+
+    #back-btn {
+      background: none;
+      border: 1px solid #888;
+      border-radius: 14px;
+      padding: 4px 12px;
+      font-size: 12px;
+      cursor: pointer;
+      color: #333;
+    }
+    #back-btn:hover { background: #d8d8d8; }
+
+    #rp-body {
+      padding: 16px;
+      overflow-y: auto;
+      flex: 1;
+      font-size: 13px;
+    }
+
+    .rp-info-heading {
+      font-size: 12px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: #333;
+    }
+
+    #rp-title {
+      font-size: 15px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      line-height: 1.4;
+      word-break: break-all;
+    }
+
+    #rp-position { font-size: 12px; color: #666; margin-bottom: 16px; }
+
+    .rp-section { margin-bottom: 18px; }
+
+    .rp-section-title {
+      font-size: 12px;
+      font-weight: bold;
+      margin-bottom: 7px;
+      color: #333;
+    }
+
+    .conn-link {
+      display: block;
+      padding: 4px 0;
+      color: #0055bb;
+      cursor: pointer;
+      font-size: 12px;
+      border-bottom: 1px solid #ddd;
+      text-decoration: none;
+      line-height: 1.4;
+    }
+    .conn-link:hover { color: #003399; text-decoration: underline; }
+    .conn-link:last-child { border-bottom: none; }
+
+    .record-box {
+      font-size: 12px;
+      color: #333;
+      line-height: 1.65;
+      background: #ebebeb;
+      padding: 9px 10px;
+      border-radius: 3px;
+      white-space: pre-wrap;
+    }
+
+    /* ── Zoom bar ───────────────────────────────────────── */
+    #zoom-bar {
+      position: fixed;
+      bottom: 28px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 3px;
+      z-index: 10;
+    }
+
+    .zoom-btn {
+      width: 42px;
+      height: 42px;
+      background: rgba(200, 200, 200, 0.88);
+      border: 1px solid #999;
+      border-radius: 4px;
+      font-size: 15px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .zoom-btn:hover { background: rgba(175, 175, 175, 0.95); }
+
+    /* ── Loading overlay ────────────────────────────────── */
+    #loading {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #ccc;
+      font-size: 14px;
+      z-index: 200;
+      letter-spacing: 0.5px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="loading">關係圖載入中…</div>
+
+<div id="sigma-container"></div>
+
+<!-- ── Left Panel ───────────────────────────────────────────── -->
+<div id="left-panel">
+  <div class="panel-heading">ℹ Information</div>
+
+  <div class="section-label">Legend:</div>
+  <div class="legend-row"><span class="dot" style="background:#e67e22"></span>顧問公司</div>
+  <div class="legend-row"><span class="dot" style="background:#9b59b6"></span>承建商</div>
+  <div class="legend-row"><span class="dot" style="background:#2ecc71"></span>參與維修大廈</div>
+  <div class="legend-row"><span class="dot" style="background:#888;border:1px solid #666"></span>相關公司</div>
+  <div class="legend-row"><span class="dot" style="background:#fff;border:1px solid #aaa"></span>人員</div>
+
+  <hr>
+
+  <div class="section-label">Search:</div>
+  <input id="search-input" type="text" placeholder="Search by name">
+  <div id="search-results"></div>
+
+  <hr>
+
+  <div class="section-label">分類:</div>
+  <select id="cat-select">
+    <option value="all">選擇組別</option>
+    <option value="consultant">顧問公司</option>
+    <option value="contractor">承建商</option>
+    <option value="estate">參與維修大廈</option>
+    <option value="external">相關公司</option>
+    <option value="person">人員</option>
+  </select>
+</div>
+
+<!-- ── Right Panel ──────────────────────────────────────────── -->
+<div id="right-panel">
+  <div id="rp-header">
+    <button id="back-btn">✕ 返回主網絡</button>
+  </div>
+  <div id="rp-body">
+    <div class="rp-info-heading">Information 資訊</div>
+    <div id="rp-title"></div>
+    <div id="rp-position"></div>
+
+    <div class="rp-section">
+      <div class="rp-section-title">Connections 連繫:</div>
+      <div id="conn-list"></div>
+    </div>
+
+    <div class="rp-section" id="crim-section" style="display:none">
+      <div class="rp-section-title" style="color:#c0392b;">⚠ 貪污、詐騙或圍標案底:</div>
+      <div id="crim-box" class="record-box"></div>
+    </div>
+
+    <div class="rp-section" id="pol-section" style="display:none">
+      <div class="rp-section-title" style="color:#2471a3;">🏛 政治活動聯繫:</div>
+      <div id="pol-box" class="record-box"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Zoom Controls ────────────────────────────────────────── -->
+<div id="zoom-bar">
+  <button class="zoom-btn" id="z-in"    title="放大">&#x1F50D;+</button>
+  <button class="zoom-btn" id="z-out"   title="縮小">&#x1F50D;−</button>
+  <button class="zoom-btn" id="z-reset" title="重置">&#x1F50D;</button>
+</div>
+
+<!-- ── CDN Libraries ─────────────────────────────────────────── -->
+<script src="https://cdn.jsdelivr.net/npm/graphology@0.25/dist/graphology.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/graphology-layout-forceatlas2/dist/graphology-layout-forceatlas2.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sigma@2/build/sigma.min.js"></script>
+
+<!-- ── App ──────────────────────────────────────────────────── -->
+<script>
+(async function () {
+
+  const TYPE_ZH = {
+    estate:     '參與維修大廈',
+    consultant: '顧問公司',
+    contractor: '承建商',
+    external:   '相關公司',
+    person:     '人員',
+  };
+
+  // ── 1. Load JSON ──────────────────────────────────────────
+  let raw;
+  try {
+    raw = await fetch('graph_data.json?v=' + Date.now()).then(r => r.json());
+  } catch (err) {
+    document.getElementById('loading').textContent = '載入失敗: ' + err.message;
+    return;
+  }
+
+  // ── 2. Build graphology graph ─────────────────────────────
+  const GraphCtor = (graphology.Graph ?? graphology);
+  const graph = new GraphCtor({ multi: false, type: 'undirected' });
+
+  raw.nodes.forEach(({ key, attributes: a }) => {
+    graph.addNode(key, {
+      label:           a.label,
+      nodeType:        a.nodeType,
+      color:           a.color,
+      size:            a.size,
+      criminalRecord:  a.criminalRecord  || '',
+      politicalRecord: a.politicalRecord || '',
+      x: (Math.random() - 0.5) * 100,
+      y: (Math.random() - 0.5) * 100,
+    });
+  });
+
+  raw.edges.forEach(({ source, target, attributes: a }) => {
+    if (!graph.hasNode(source) || !graph.hasNode(target)) return;
+    if (graph.hasEdge(source, target)) return;
+    graph.addEdge(source, target, {
+      edgeType: a.edgeType,
+      color:    a.color,
+      size:     a.edgeType === 'bid_winner' ? 3 : 1,
+    });
+  });
+
+  // ── 3. ForceAtlas2 layout ─────────────────────────────────
+  const fa2 = window.graphologyLayoutForceAtlas2;
+  if (fa2?.assign) {
+    fa2.assign(graph, {
+      iterations: 300,
+      settings: {
+        gravity:           1,
+        scalingRatio:      8,
+        strongGravityMode: false,
+        barnesHutOptimize: false,
+        adjustSizes:       false,
+      },
+    });
+  }
+
+  // ── 4. State ──────────────────────────────────────────────
+  let selectedNode = null;
+  let hoveredNode  = null;
+  let activeFilter = 'all';
+
+  // ── 5. Sigma renderer ─────────────────────────────────────
+  const container = document.getElementById('sigma-container');
+
+  const renderer = new Sigma(graph, container, {
+    renderEdgeLabels:  false,
+    defaultEdgeColor:  '#1abc9c',
+    defaultNodeColor:  '#888',
+    labelFont:         'Arial',
+    labelSize:         11,
+    labelWeight:       'normal',
+    labelColor:        { color: '#e8e8e8' },
+    labelDensity:      0.07,
+    labelGridCellSize: 80,
+    minCameraRatio:    0.03,
+    maxCameraRatio:    6,
+
+    nodeReducer(node, data) {
+      // Category filter always takes precedence
+      if (activeFilter !== 'all' && data.nodeType !== activeFilter) {
+        return { ...data, hidden: true };
+      }
+
+      const pivot = selectedNode ?? hoveredNode;
+      if (!pivot) return data;
+
+      // Pivot node: full brightness
+      if (node === pivot) return { ...data, highlighted: true };
+
+      // Direct neighbours: visible
+      if (graph.areNeighbors(pivot, node)) return data;
+
+      // Everything else: dimmed
+      return { ...data, color: '#1c1c1c', label: '', size: data.size * 0.4, zIndex: 0 };
+    },
+
+    edgeReducer(edge, data) {
+      const pivot = selectedNode ?? hoveredNode;
+      if (!pivot) return data;
+      const [s, t] = graph.extremities(edge);
+      if (s === pivot || t === pivot) return data;
+      return { ...data, hidden: true };
+    },
+  });
+
+  // Save initial camera state for full-graph reset
+  const initCam = renderer.getCamera().getState();
+
+  // ── 6. Events ─────────────────────────────────────────────
+  renderer.on('clickNode',  ({ node }) => selectNode(node));
+  renderer.on('clickStage', () => clearSelection());
+  renderer.on('enterNode',  ({ node }) => { hoveredNode = node;  renderer.refresh(); });
+  renderer.on('leaveNode',  ()         => { hoveredNode = null;  renderer.refresh(); });
+
+  // ── 7. Select / clear ─────────────────────────────────────
+  function selectNode(node) {
+    selectedNode = node;
+    hoveredNode  = null;
+    renderer.refresh();
+
+    // Animate camera toward the node
+    const disp = renderer.getNodeDisplayData(node);
+    if (disp) {
+      renderer.getCamera().animate(
+        { x: disp.x, y: disp.y, ratio: 0.35 },
+        { duration: 450 }
+      );
+    }
+
+    fillRightPanel(node);
+    document.getElementById('right-panel').style.display = 'flex';
+  }
+
+  function clearSelection() {
+    selectedNode = null;
+    renderer.refresh();
+    document.getElementById('right-panel').style.display = 'none';
+  }
+
+  // ── 8. Right panel ────────────────────────────────────────
+  function fillRightPanel(node) {
+    const a = graph.getNodeAttributes(node);
+
+    document.getElementById('rp-title').textContent    = a.label;
+    document.getElementById('rp-position').textContent = 'position: ' + (TYPE_ZH[a.nodeType] || a.nodeType);
+
+    // Connections list
+    const list = document.getElementById('conn-list');
+    list.innerHTML = '';
+    graph.neighbors(node).forEach(nb => {
+      const nbA = graph.getNodeAttributes(nb);
+      const el  = document.createElement('span');
+      el.className   = 'conn-link';
+      el.textContent = nbA.label;
+      el.addEventListener('click', () => selectNode(nb));
+      list.appendChild(el);
+    });
+
+    // Criminal record
+    const crimSec = document.getElementById('crim-section');
+    if (a.criminalRecord) {
+      document.getElementById('crim-box').textContent = a.criminalRecord;
+      crimSec.style.display = '';
+    } else {
+      crimSec.style.display = 'none';
+    }
+
+    // Political record
+    const polSec = document.getElementById('pol-section');
+    if (a.politicalRecord) {
+      document.getElementById('pol-box').textContent = a.politicalRecord;
+      polSec.style.display = '';
+    } else {
+      polSec.style.display = 'none';
+    }
+
+    document.getElementById('rp-body').scrollTop = 0;
+  }
+
+  // ── 9. Back button ────────────────────────────────────────
+  document.getElementById('back-btn').addEventListener('click', () => {
+    clearSelection();
+    renderer.getCamera().animate(initCam, { duration: 400 });
+  });
+
+  // ── 10. Search ────────────────────────────────────────────
+  const searchInput   = document.getElementById('search-input');
+  const searchResults = document.getElementById('search-results');
+
+  searchInput.addEventListener('input', () => {
+    const q = searchInput.value.trim();
+    searchResults.innerHTML = '';
+    if (!q) { searchResults.style.display = 'none'; return; }
+
+    const hits = raw.nodes
+      .filter(n => n.attributes.label.includes(q))
+      .slice(0, 12);
+
+    if (!hits.length) { searchResults.style.display = 'none'; return; }
+
+    hits.forEach(n => {
+      const d = document.createElement('div');
+      d.className   = 'sr-item';
+      d.textContent = n.attributes.label;
+      d.addEventListener('click', () => {
+        searchResults.style.display = 'none';
+        searchInput.value = '';
+        selectNode(n.key);
+      });
+      searchResults.appendChild(d);
+    });
+
+    searchResults.style.display = 'block';
+  });
+
+  // Close search results on outside click
+  document.addEventListener('click', e => {
+    if (!e.target.closest('#left-panel')) {
+      searchResults.style.display = 'none';
+    }
+  });
+
+  // ── 11. Category filter ───────────────────────────────────
+  document.getElementById('cat-select').addEventListener('change', e => {
+    activeFilter = e.target.value;
+    clearSelection();
+    renderer.refresh();
+  });
+
+  // ── 12. Zoom controls ─────────────────────────────────────
+  document.getElementById('z-in').addEventListener('click', () => {
+    const cam = renderer.getCamera();
+    cam.animate({ ratio: cam.ratio / 1.5 }, { duration: 200 });
+  });
+  document.getElementById('z-out').addEventListener('click', () => {
+    const cam = renderer.getCamera();
+    cam.animate({ ratio: cam.ratio * 1.5 }, { duration: 200 });
+  });
+  document.getElementById('z-reset').addEventListener('click', () => {
+    renderer.getCamera().animate(initCam, { duration: 350 });
+  });
+
+  // ── Done ──────────────────────────────────────────────────
+  document.getElementById('loading').style.display = 'none';
+
+})();
+</script>
+
+</body>
+</html>
